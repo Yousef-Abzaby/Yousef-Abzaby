@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yousef 👋
 
-<!--
-**Yousef-Abzaby/Yousef-Abzaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year Computer Science student at Cairo University – Faculty of Artificial Intelligence & Computer Science.
 
-Here are some ideas to get you started:
+💻 I'm learning and building with:
+- C++, Java, Python
+- Web development (HTML, CSS)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on:
+- Personal projects to practice my skills
+- Improving my GitHub and LinkedIn profiles
+- Exploring open-source contributions
+
+📫 How to reach me:
+- Email: yousef.abzaby@gmail.com
+- LinkedIn: [Add your LinkedIn URL here]
+- GitHub: [https://github.com/Yousef-Abzaby](https://github.com/Yousef-Abzaby)
+
+🔧 Always learning, always building. Open to internships, remote work, and coding collaborations!
